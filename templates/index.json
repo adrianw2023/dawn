@@ -6,13 +6,13 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand"
+            "heading": "Laser Ignition Device"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
+            "button_label_1": "Shop Now",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": false,
             "button_label_2": "",
