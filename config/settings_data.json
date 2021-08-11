@@ -7,7 +7,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "heading": "Welcome to our store",
+              "heading": "Free shipping on orders over $75.",
               "color_scheme": "accent-1",
               "link": ""
             }
