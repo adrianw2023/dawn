@@ -96,7 +96,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Sezzle_41ac7a19-03f7-4d7c-8e15-2795bf6e7987.png",
             "title": "Sezzle",
-            "text": "<p>Your entire online order, split into 4 <br\/>interest-free payments.<\/p>"
+            "text": "<p>Get your entire online order, split into 4 interest-free payments.<\/p>"
           }
         },
         "1628661430308cd2c2-1": {
@@ -131,6 +131,41 @@
         "button_link": "",
         "swipe_on_mobile": true
       }
+    },
+    "162866144829e37c1e": {
+      "type": "image-with-text",
+      "blocks": {
+        "162866144829e37c1e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Laser heated combustion"
+          }
+        },
+        "162866144829e37c1e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Trident patent-pending laser combustion system delivers the cleanest smoke, as well as preserving the true flavors of your flower. <\/p><p>The method of combustion in the Trident, is similar to a magnifying glass under the sun. This eliminates the need to use butane from a lighter or the use of a hemp wick.<\/p>"
+          }
+        },
+        "162866144829e37c1e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read About Our Love Of Lasers",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "162866144829e37c1e-0",
+        "162866144829e37c1e-1",
+        "162866144829e37c1e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Hitoki-Black-Product-04.jpg",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
@@ -138,6 +173,7 @@
     "featured_products",
     "image_text",
     "16286613154e3baf4e",
-    "1628661430308cd2c2"
+    "1628661430308cd2c2",
+    "162866144829e37c1e"
   ]
 }
