@@ -247,21 +247,21 @@
     "1628662870e771b886": {
       "type": "collage",
       "blocks": {
-        "0ad9b687-7aec-480a-b6b7-bf7e826c0f2d": {
-          "type": "product",
-          "settings": {
-            "product": "hitoki-laser",
-            "secondary_background": true,
-            "second_image": false,
-            "image_padding": false
-          }
-        },
         "1628662870e771b886-1": {
           "type": "product",
           "settings": {
             "product": "gold",
             "secondary_background": true,
             "second_image": true,
+            "image_padding": false
+          }
+        },
+        "0ad9b687-7aec-480a-b6b7-bf7e826c0f2d": {
+          "type": "product",
+          "settings": {
+            "product": "hitoki-laser",
+            "secondary_background": true,
+            "second_image": false,
             "image_padding": false
           }
         },
@@ -276,8 +276,8 @@
         }
       },
       "block_order": [
-        "0ad9b687-7aec-480a-b6b7-bf7e826c0f2d",
         "1628662870e771b886-1",
+        "0ad9b687-7aec-480a-b6b7-bf7e826c0f2d",
         "ff0b8caa-34ca-4e30-9ca4-472ed15b91f3"
       ],
       "settings": {
