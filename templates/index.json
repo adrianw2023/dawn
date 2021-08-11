@@ -28,7 +28,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Hitoki-Main-Logo.jpg",
         "desktop_text_box_position": "flex-end",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-2",
         "stack_images_on_mobile": true,
         "adapt_height_first_image": true
       }
@@ -281,7 +281,7 @@
         "ff0b8caa-34ca-4e30-9ca4-472ed15b91f3"
       ],
       "settings": {
-        "heading": "Select your color",
+        "heading": "The Trident Collection",
         "desktop_layout": "left",
         "mobile_layout": "collage"
       }
