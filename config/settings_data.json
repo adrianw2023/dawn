@@ -45,11 +45,19 @@
               "heading": "About Us",
               "subtext": "<p>Our products are designed to raise the community mindset by living a healthy, abundant lifestyle. <a href=\"https:\/\/hitoki.com\/pages\/our-story\" title=\"About\"><strong>Read more.<\/strong><\/a><\/p>"
             }
+          },
+          "87d9e940-dde0-4f2b-86dc-e1e5abc298c9": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Policies",
+              "menu": "footer-2"
+            }
           }
         },
         "block_order": [
           "footer-0",
-          "ba013bdc-7dbd-4d02-8323-41426ae78fb2"
+          "ba013bdc-7dbd-4d02-8323-41426ae78fb2",
+          "87d9e940-dde0-4f2b-86dc-e1e5abc298c9"
         ],
         "settings": {
           "color_scheme": "background-1",
