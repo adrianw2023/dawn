@@ -22,6 +22,7 @@
       "header": {
         "type": "header",
         "settings": {
+          "logo": "shopify:\/\/shop_images\/Logo_1c6bca5f-8457-4391-b668-83cb70b4cdb6.png",
           "logo_width": 100,
           "logo_position": "middle-left",
           "menu": "main-menu",
