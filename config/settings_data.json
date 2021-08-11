@@ -1,4 +1,69 @@
 {
   "current": {
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "announcement-bar-0": {
+            "type": "announcement",
+            "settings": {
+              "heading": "Welcome to our store",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "announcement-bar-0"
+        ],
+        "settings": {
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "logo_width": 100,
+          "logo_position": "middle-left",
+          "menu": "main-menu",
+          "show_line_separator": true,
+          "enable_sticky_header": true
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
+          },
+          "ba013bdc-7dbd-4d02-8323-41426ae78fb2": {
+            "type": "text",
+            "settings": {
+              "heading": "About Us",
+              "subtext": "<p>Our products are designed to raise the community mindset by living a healthy, abundant lifestyle. <a href=\"https:\/\/hitoki.com\/pages\/our-story\" title=\"About\"><strong>Read more.<\/strong><\/a><\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "ba013bdc-7dbd-4d02-8323-41426ae78fb2"
+        ],
+        "settings": {
+          "color_scheme": "background-1",
+          "newsletter_enable": true,
+          "newsletter_heading": "Subscribe to our emails",
+          "show_social": false,
+          "enable_country_selector": true,
+          "enable_language_selector": true,
+          "payment_enable": true
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
   }
 }
