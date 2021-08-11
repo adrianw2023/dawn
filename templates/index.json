@@ -199,8 +199,71 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Hitoki-FDA-Safe_16-9.jpg",
         "height": "adapt",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "layout": "image_first"
+      }
+    },
+    "162866248771e53f87": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "cover_image": "shopify:\/\/shop_images\/Hitoki-Slideshow-Black-03_N.jpg",
+        "video_url": "https:\/\/youtu.be\/M1l6L1tR4aw",
+        "description": "",
+        "full_width": false
+      }
+    },
+    "1628662490534bc23d": {
+      "type": "newsletter",
+      "blocks": {
+        "1628662490534bc23d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Become an insider"
+          }
+        },
+        "1628662490534bc23d-1": {
+          "type": "paragraph",
+          "settings": {
+            "paragraph": "<p>Be the first to know about new products and exclusive offers.<\/p>"
+          }
+        },
+        "1628662490534bc23d-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1628662490534bc23d-0",
+        "1628662490534bc23d-1",
+        "1628662490534bc23d-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "1628662870e771b886": {
+      "type": "collage",
+      "blocks": {
+        "1628662870e771b886-1": {
+          "type": "product",
+          "settings": {
+            "product": "gold",
+            "secondary_background": true,
+            "second_image": true,
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "1628662870e771b886-1"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
       }
     }
   },
@@ -211,6 +274,9 @@
     "1628661430308cd2c2",
     "162866144829e37c1e",
     "image_text",
-    "16286617024671275b"
+    "16286617024671275b",
+    "162866248771e53f87",
+    "1628662490534bc23d",
+    "1628662870e771b886"
   ]
 }
