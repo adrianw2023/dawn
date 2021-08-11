@@ -39,31 +39,31 @@
               "menu": "footer"
             }
           },
-          "ba013bdc-7dbd-4d02-8323-41426ae78fb2": {
-            "type": "text",
-            "settings": {
-              "heading": "About Us",
-              "subtext": "<p>Our products are designed to raise the community mindset by living a healthy, abundant lifestyle. <a href=\"https:\/\/hitoki.com\/pages\/our-story\" title=\"About\"><strong>Read more.<\/strong><\/a><\/p>"
-            }
-          },
           "87d9e940-dde0-4f2b-86dc-e1e5abc298c9": {
             "type": "link_list",
             "settings": {
               "heading": "Policies",
               "menu": "footer-2"
             }
+          },
+          "ba013bdc-7dbd-4d02-8323-41426ae78fb2": {
+            "type": "text",
+            "settings": {
+              "heading": "About Us",
+              "subtext": "<p>Our products are designed to raise the community mindset by living a healthy, abundant lifestyle. <a href=\"https:\/\/hitoki.com\/pages\/our-story\" title=\"About\"><strong>Read more.<\/strong><\/a><\/p>"
+            }
           }
         },
         "block_order": [
           "footer-0",
-          "ba013bdc-7dbd-4d02-8323-41426ae78fb2",
-          "87d9e940-dde0-4f2b-86dc-e1e5abc298c9"
+          "87d9e940-dde0-4f2b-86dc-e1e5abc298c9",
+          "ba013bdc-7dbd-4d02-8323-41426ae78fb2"
         ],
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "accent-2",
           "newsletter_enable": true,
           "newsletter_heading": "Subscribe to our emails",
-          "show_social": false,
+          "show_social": true,
           "enable_country_selector": true,
           "enable_language_selector": true,
           "payment_enable": true
