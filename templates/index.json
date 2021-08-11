@@ -285,6 +285,46 @@
         "desktop_layout": "left",
         "mobile_layout": "collage"
       }
+    },
+    "1628663205ce170f49": {
+      "type": "image-banner",
+      "blocks": {
+        "1628663205ce170f49-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "@HitokiLaser"
+          }
+        },
+        "1628663205ce170f49-1": {
+          "type": "text",
+          "settings": {
+            "text": "Follow us on Instagram & Facebook for contest giveaways."
+          }
+        },
+        "1628663205ce170f49-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Instagram",
+            "button_link_1": "",
+            "button_style_secondary_1": true,
+            "button_label_2": "Facebook",
+            "button_link_2": "",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "1628663205ce170f49-0",
+        "1628663205ce170f49-1",
+        "1628663205ce170f49-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Hitoki-Slideshow-Black-02_N.jpg",
+        "desktop_text_box_position": "flex-end",
+        "color_scheme": "inverse",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
     }
   },
   "order": [
@@ -297,6 +337,7 @@
     "16286617024671275b",
     "162866248771e53f87",
     "1628662490534bc23d",
-    "1628662870e771b886"
+    "1628662870e771b886",
+    "1628663205ce170f49"
   ]
 }
