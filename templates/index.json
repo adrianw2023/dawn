@@ -48,40 +48,6 @@
         "show_vendor": false
       }
     },
-    "image_text": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
-      "settings": {
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
     "16286613154e3baf4e": {
       "type": "apps",
       "settings": {
@@ -144,13 +110,13 @@
         "162866144829e37c1e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The Trident patent-pending laser combustion system delivers the cleanest smoke, as well as preserving the true flavors of your flower. <\/p><p>The method of combustion in the Trident, is similar to a magnifying glass under the sun. This eliminates the need to use butane from a lighter or the use of a hemp wick.<\/p>"
+            "text": "<p>The Trident patent-pending laser combustion system delivers the cleanest smoke, as well as preserving the true flavors of your flower. <\/p>"
           }
         },
         "162866144829e37c1e-2": {
           "type": "button",
           "settings": {
-            "button_label": "Read About Our Love Of Lasers",
+            "button_label": "Learn why a laser.",
             "button_link": ""
           }
         }
@@ -163,6 +129,76 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Hitoki-Black-Product-04.jpg",
         "height": "small",
+        "color_scheme": "inverse",
+        "layout": "image_first"
+      }
+    },
+    "image_text": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Elegance and power"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Trident is capable of 280+ draws on a single charge and features a sophisticated design that you will want to display. <\/p>"
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "View our mission.",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Hitoki-Elegance-Power_Cropped.jpg",
+        "height": "adapt",
+        "color_scheme": "background-2",
+        "layout": "image_first"
+      }
+    },
+    "16286617024671275b": {
+      "type": "image-with-text",
+      "blocks": {
+        "16286617024671275b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FDA safe laser"
+          }
+        },
+        "16286617024671275b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><\/p><p>Designed with a special laser shield that lets you safely view the mesmerizing laser ignition. The unique interlocks will only allow the laser to fire when properly assembled.<\/p>"
+          }
+        },
+        "16286617024671275b-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read our safety policy.",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16286617024671275b-0",
+        "16286617024671275b-1",
+        "16286617024671275b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Hitoki-FDA-Safe_16-9.jpg",
+        "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
@@ -171,9 +207,10 @@
   "order": [
     "image_banner",
     "featured_products",
-    "image_text",
     "16286613154e3baf4e",
     "1628661430308cd2c2",
-    "162866144829e37c1e"
+    "162866144829e37c1e",
+    "image_text",
+    "16286617024671275b"
   ]
 }
