@@ -38,14 +38,14 @@
       "settings": {
         "title": "Featured products",
         "collection": "frontpage",
-        "products_to_show": 2,
+        "products_to_show": 4,
         "show_view_all": false,
         "swipe_on_mobile": true,
-        "image_ratio": "portrait",
+        "image_ratio": "square",
         "show_secondary_image": false,
         "add_image_padding": false,
         "show_image_outline": true,
-        "show_vendor": false
+        "show_vendor": true
       }
     },
     "16286613154e3baf4e": {
@@ -57,14 +57,6 @@
     "1628661430308cd2c2": {
       "type": "multicolumn",
       "blocks": {
-        "1628661430308cd2c2-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Sezzle_41ac7a19-03f7-4d7c-8e15-2795bf6e7987.png",
-            "title": "Sezzle",
-            "text": "<p>Get your entire online order, split into 4 interest-free payments.<\/p>"
-          }
-        },
         "1628661430308cd2c2-1": {
           "type": "column",
           "settings": {
@@ -73,18 +65,26 @@
             "text": "<p>We will replace your Trident, <br\/>no questions asked under our warranty.<\/p>"
           }
         },
+        "1628661430308cd2c2-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sezzle_41ac7a19-03f7-4d7c-8e15-2795bf6e7987.png",
+            "title": "Sezzle",
+            "text": "<p>Get your entire online order, split into 4 interest-free payments.<\/p>"
+          }
+        },
         "1628661430308cd2c2-2": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/shipping_16242280-583b-40f1-807b-dc147415a180.png",
             "title": "Free Shipping",
-            "text": "<p>Get free domestic shipping on all <br\/>orders over $99.<\/p>"
+            "text": "<p>Get free domestic shipping on all <br\/>orders over $75.<\/p>"
           }
         }
       },
       "block_order": [
-        "1628661430308cd2c2-0",
         "1628661430308cd2c2-1",
+        "1628661430308cd2c2-0",
         "1628661430308cd2c2-2"
       ],
       "settings": {
