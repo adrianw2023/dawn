@@ -1,5 +1,7 @@
 {
   "current": {
+    "colors_solid_button_labels": "#dadbdd",
+    "colors_accent_2": "#bb3921",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
