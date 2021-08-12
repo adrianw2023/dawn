@@ -325,6 +325,21 @@
         "stack_images_on_mobile": true,
         "adapt_height_first_image": false
       }
+    },
+    "16287903759ab16458": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured accessories",
+        "collection": "accessories",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false
+      }
     }
   },
   "order": [
@@ -338,6 +353,7 @@
     "162866248771e53f87",
     "1628662490534bc23d",
     "1628662870e771b886",
-    "1628663205ce170f49"
+    "1628663205ce170f49",
+    "16287903759ab16458"
   ]
 }
